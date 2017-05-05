@@ -1,2 +1,2 @@
-# cs490-release_version
+# cs490
 online exam system
